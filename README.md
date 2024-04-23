@@ -37,5 +37,5 @@ To get started with this project, you can follow the steps below:
 
 ## Contributors
 
-- Abdalla Ellaithy
+- [Abdalla Ellaithy](https://github.com/abdallaellaithy)
 
