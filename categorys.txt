@@ -1,0 +1,5 @@
+1:cosmetics
+2:prescription drugs
+3:cosmetics
+4:cosmetics
+5:other
